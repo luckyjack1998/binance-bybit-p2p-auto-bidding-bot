@@ -20,6 +20,7 @@ Our bot replaces manual monitoring with precision programmatic execution:
 [![P2P Trading Bot Demo](https://img.youtube.com/vi/m61CG6MHzYs/0.jpg)](https://www.youtube.com/watch?v=m61CG6MHzYs)
 *Click the image above to watch the full software demonstration on YouTube.*
 
+
 ## 📂 Associated Repositories
 * **[Main Bidding Bot](https://github.com/luckyjack1998/binance-bybit-p2p-auto-bidding-bot)**: Focuses on real-time price adjustment and ranking.
 * **[Automated Trading Version](https://github.com/luckyjack1998/P2P-Automated-Trading-Bidding-Bot-BINANCE-BYBIT-)**: Advanced version for deeper automation.
